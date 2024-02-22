@@ -7,6 +7,11 @@ export default {
     fontFamily: {
       'ryman-eco': ['Ryman Eco'],
       'dm-sans': ['DM Sans']
+    },
+    extend: {
+      backgroundImage: {
+        'landing-page': "url('./public/background_image_landing_page.webp')"
+      }
     }
   }
 };
