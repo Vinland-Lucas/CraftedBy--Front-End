@@ -4,8 +4,8 @@
 
 <template>
 
-    <header>
-        <div class="header--container fixed navbar bg-base-100 bg-white text-black border-b border-solid border-black">
+    <header class="sticky top-0">
+        <div class="header--container navbar bg-base-100 bg-white text-black border-b border-solid border-black">
             <div class="flex-none">
                 <button class="btn btn-square btn-ghost">
                     <i-ph-list style="font-size: 24px; margin-left: 8px;"></i-ph-list>
