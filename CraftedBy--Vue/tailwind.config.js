@@ -14,6 +14,9 @@ export default {
       },
       colors: {
         'timberwolf': '#DDD0C8'
+      },
+      padding: {
+        '27px': '27px'
       }
     }
   }
