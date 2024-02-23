@@ -10,7 +10,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'landing-page': "url('./public/background_image_landing_page.webp')"
+        'landing-page': "url('./public/landing_page_bg_image.webp')"
       }
     }
   }
