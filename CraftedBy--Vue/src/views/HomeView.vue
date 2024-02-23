@@ -6,15 +6,15 @@ import TheWelcome from '../components/TheWelcome.vue'
   <main>
     <div class="main--container">
       <div class="w-screen h-screen bg-landing-page bg-cover bg-top flex justify-center items-center">
-        <div class="w-5/6 h-3/6 flex flex-col justify-evenly ">
-          <div class="h-2/6 flex flex-col justify-between items-center">
-            <h1 class="font-ryman-eco text-3xl text-black">Welcome to CraftedBy</h1>
+        <div class="w-5/6 h-3/6 flex flex-col justify-between items-center">
+          <div class="h-3/6 flex flex-col justify-between items-center text-white">
+            <h1 class="font-ryman-eco text-3xl text-center">Welcome to CraftedBy</h1>
 
-            <p class="font-dm-sans text-base text-black text-center">
-              Fostering global artisan empowerment, celebrating unique creations
+            <p class="font-dm-sans italic text-base text-center">
+              Empowering artisans globally by providing a platform to showcase their craftsmanship, while fostering a community that celebrates the beauty of unique creations
             </p>
           </div>
-          <a class="btn btn-outline">SHOP NOW</a>
+          <a class="w-36 btn btn-outline font-ryman-eco text-white rounded-none hover:bg-black hover:text-white animate-pulse">SHOP NOW</a>
         </div>
         
       </div>
