@@ -1,5 +1,11 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+<script>
+import BestSellers from './BestSellers.vue'
+
+export default {
+  components: {
+    BestSellers
+  }
+}
 </script>
 
 <template>
@@ -16,8 +22,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           </div>
           <a class="w-36 btn btn-outline font-ryman-eco text-white rounded-none hover:bg-black hover:text-white animate-pulse">SHOP NOW</a>
         </div>
-        
       </div>
+      
+      <BestSellers />
       
     </div>
   </main>
