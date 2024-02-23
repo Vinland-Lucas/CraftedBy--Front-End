@@ -11,6 +11,9 @@ export default {
     extend: {
       backgroundImage: {
         'landing-page': "url('./public/landing_page_bg_image.webp')"
+      },
+      colors: {
+        'timberwolf': '#DDD0C8'
       }
     }
   }
