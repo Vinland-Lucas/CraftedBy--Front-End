@@ -17,6 +17,9 @@ export default {
       },
       padding: {
         '27px': '27px'
+      },
+      spacing: {
+        '38px': '38px'
       }
     }
   }
