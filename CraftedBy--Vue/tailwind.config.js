@@ -19,7 +19,9 @@ export default {
         '27px': '27px'
       },
       spacing: {
-        '38px': '38px'
+        '38px': '38px',
+        'pc-width': '9.538rem',
+        'pc-height': '22.458rem',
       }
     }
   }
