@@ -16,7 +16,7 @@ export default {
           <div class="h-3/6 flex flex-col justify-between items-center text-white">
             <h1 class="font-ryman-eco text-3xl text-center">Welcome to CraftedBy</h1>
 
-            <p class="font-dm-sans italic text-base text-center">
+            <p class="font-dm-sans-extralight italic text-base text-center">
               Empowering artisans globally by providing a platform to showcase their craftsmanship, while fostering a community that celebrates the beauty of unique creations
             </p>
           </div>
