@@ -6,7 +6,10 @@ export default {
   theme: {
     fontFamily: {
       'ryman-eco': ['Ryman Eco'],
-      'dm-sans': ['DM Sans']
+      'dm-sans': ['DM Sans'],
+      'dm-sans-light': ['DM Sans Light'],
+      'dm-sans-extralight': ['DM Sans ExtraLight'],
+      'dm-sans-thin': ['DM Sans Thin'],
     },
     extend: {
       backgroundImage: {
