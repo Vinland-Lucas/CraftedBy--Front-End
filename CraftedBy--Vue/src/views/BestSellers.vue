@@ -11,7 +11,7 @@
 <template>
     <div class="best--sellers w-screen h-screen bg-timberwolf px-27px">
         <div class="font-ryman-eco text-3xl text-black text-center mb-38px pt-8">
-            <h1>BEST SELLERS</h1>
+            <h2>BEST SELLERS</h2>
         </div>
 
         <div class="grid grid-cols-2 grid-rows-2 gap-4">
