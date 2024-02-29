@@ -4,7 +4,7 @@
 
 <template>
 
-    <footer class="font-dm-sans text-lg bg-black text-white">
+    <footer class="font-dm-sans-extralight text-lg bg-black text-white">
         <div class="w-screen border-y-2 py-5">
             <a href="/" class="link link-hover pl-6">Shop All</a>
         </div> 
