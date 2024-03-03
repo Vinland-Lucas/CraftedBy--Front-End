@@ -20,7 +20,8 @@ export default {
               Empowering artisans globally by providing a platform to showcase their craftsmanship, while fostering a community that celebrates the beauty of unique creations
             </p>
           </div>
-          <a class="w-36 btn btn-outline font-ryman-eco text-white rounded-none hover:bg-black hover:text-white animate-pulse">SHOP NOW</a>
+
+          <a class="w-36 btn btn-outline font-ryman-eco text-white rounded-none hover:bg-black hover:text-white animate-bounce">SHOP NOW</a>
         </div>
       </div>
       
