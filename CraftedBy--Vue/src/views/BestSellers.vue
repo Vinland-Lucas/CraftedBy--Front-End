@@ -9,12 +9,12 @@
 </script>
 
 <template>
-    <div class="best--sellers w-screen h-auto bg-timberwolf px-27px py-8">
-        <div class="font-ryman-eco text-3xl text-black text-center mb-38px">
+    <div class="best--sellers w-screen h-auto bg-timberwolf px-27px">
+        <div class="font-ryman-eco text-3xl text-black text-center mb-38px pt-8">
             <h2>BEST SELLERS</h2>
         </div>
 
-        <div class="grid grid-cols-2 grid-rows-2 gap-4">
+        <div class="grid grid-cols-2 grid-rows-2 gap-4 pb-8">
             <div class="row-start-1 col-span-1">
                 <ProductCard />
             </div>
