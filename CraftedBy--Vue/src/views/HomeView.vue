@@ -1,9 +1,11 @@
 <script>
 import BestSellers from './BestSellers.vue'
+import Recommended from './Recommended.vue'
 
 export default {
   components: {
-    BestSellers
+    BestSellers,
+    Recommended
   }
 }
 </script>
@@ -27,6 +29,8 @@ export default {
       
       <BestSellers />
       
+      <Recommended />
+
     </div>
   </main>
 </template>
