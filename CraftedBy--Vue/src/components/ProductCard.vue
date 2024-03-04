@@ -14,15 +14,15 @@
         </div>
 
         <div class="product-infos py-3 ">
-            <h3 class="text-base font-normal leading-none tracking-tight mb-2.5"><a href="/">VALORANT KNIFE DE ZINZIN #SLASH</a></h3>
+            <h3 class="text-base font-normal leading-none tracking-tight mb-2.5"><a href="/">Valorant Knife de Zinzin #Slash</a></h3>
 
             <div>
                 <span class="text-xs leading-none">Color</span>
 
                 <div class="flex gap-1.5 mt-1 mb-2.5">
-                    <button type="button" class="w-7 h-7 bg-slate-700 border-[0.5px] border-white"></button>
-                    <button type="button" class="w-7 h-7 bg-red-700 border-[0.5px] border-white"></button>
-                    <button type="button" class="w-7 h-7 bg-emerald-400 border-[0.5px] border-white"></button>
+                    <button type="button" class="w-7 h-7 bg-yellow-950 border-[0.5px] border-white"></button>
+                    <button type="button" class="w-7 h-7 bg-orange-100 border-[0.5px] border-white"></button>
+                    <button type="button" class="w-7 h-7 bg-slate-100 border-[0.5px] border-white"></button>
                 </div>
             </div>
             
