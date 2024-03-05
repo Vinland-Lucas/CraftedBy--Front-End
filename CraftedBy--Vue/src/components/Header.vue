@@ -12,7 +12,7 @@
                 </button>
             </div>
             <div class="flex-1">
-                <a class="btn btn-ghost text-xl font-ryman-eco pl-0">
+                <a href="/" class="btn btn-ghost text-xl font-ryman-eco pl-0">
                     <img src="../assets/craftedbylogo.svg" alt="CraftedBy Logo" width="155"/>
                 </a>
             </div>
