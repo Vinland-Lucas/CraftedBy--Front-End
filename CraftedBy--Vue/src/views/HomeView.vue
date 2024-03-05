@@ -23,7 +23,7 @@ export default {
             </p>
           </div>
 
-          <a class="w-36 btn btn-outline font-ryman-eco text-white rounded-none hover:bg-black hover:text-white animate-bounce">SHOP NOW</a>
+          <a href="/shop" class="w-36 btn btn-outline font-ryman-eco text-white rounded-none hover:bg-black hover:text-white animate-bounce">SHOP NOW</a>
         </div>
       </div>
       
