@@ -10,22 +10,22 @@
 
 <template>
     <main>
-        <div id="shop" class="main--container bg-timberwolf">
+        <div id="shop" class="main--container bg-timberwolf text-black">
             <div class="w-screen h-auto py-[46px] flex justify-center">
-                <div class="w-1/2 h-12 border border-solid border-black bg-white flex justify-evenly items-center ">
+                <div class="w-2/3 h-12 border border-solid border-black bg-white flex justify-evenly items-center ">
                     <button type="button">
                         <i-ph-magnifying-glass style="font-size: 20px; stroke: black; stroke-width: 9px;"></i-ph-magnifying-glass>
                     </button>
 
-                    <form method="GET">
-                        <input id="searchbar" class="font-dm-sans-extralight" type="text" placeholder="Search something..." maxlength="80">
+                    <form method="GET" class="">
+                        <input id="searchbar" class="font-dm-sans-extralight bg-white" type="text" placeholder="Search something..." maxlength="80">
                     </form>
                 </div>
             </div>
 
 
             <div class="w-screen h-auto px-27px">
-                <div class="font-ryman-eco text-3xl text-black text-center mb-38px pt-[46px] border-t border-solid border-black">
+                <div class="font-ryman-eco text-3xl text-center mb-38px pt-[46px] border-t border-solid border-black">
                     <h2>SHOP</h2>
                 </div>
 
