@@ -9,8 +9,8 @@
 </script>
 
 <template>
-    <div class="recommended w-screen h-auto bg-timberwolf px-27px">
-        <div class="font-ryman-eco text-3xl text-black text-center mb-38px pt-[46px] border-t border-solid border-black">
+    <div class="recommended w-screen h-auto bg-timberwolf px-27px text-black">
+        <div class="font-ryman-eco text-3xl text-center mb-38px pt-[46px] border-t border-solid border-black">
             <h2>RECOMMENDED</h2>
         </div>
 
