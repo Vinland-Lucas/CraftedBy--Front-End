@@ -5,7 +5,7 @@
 <template>
     <div class="product-card w-pc-width h-pc-height bg-transparent shadow-sm mb-3.5 font-dm-sans-light">
         <div class="product-image w-pc-width h-40">
-            <a href="/">
+            <a href="/productpage">
                 <img 
                     src="../../public/pexels-aidan-nguyen-2735644.webp" alt="Crafted Knife" 
                     style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
@@ -14,7 +14,7 @@
         </div>
 
         <div class="product-infos py-3 ">
-            <h3 class="text-base font-normal leading-none tracking-tight mb-2.5"><a href="/">Valorant Knife de Zinzin #Slash</a></h3>
+            <h3 class="text-base font-normal leading-none tracking-tight mb-2.5"><a href="/productpage">Valorant Knife de Zinzin #Slash</a></h3>
 
             <div>
                 <span class="text-xs leading-none">Color</span>
