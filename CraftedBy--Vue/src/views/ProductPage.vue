@@ -21,18 +21,53 @@
 
 
                 <div class="h-auto">
-                    <div class="w-1/3">
-                        <h2 class="font-ryman-eco text-lg text-center">Color</h2>
+                    <div id="color" class="pb-6">
+                        <h2 class="text-lg mb-2.5">Color</h2>
 
-                        <div class="flex flex-wrap justify-center gap-1.5">
-                            <button type="button" class="w-7 h-7 bg-yellow-950 border-[0.5px] border-white"></button>
-                            <button type="button" class="w-7 h-7 bg-orange-100 border-[0.5px] border-white"></button>
-                            <button type="button" class="w-7 h-7 bg-slate-100 border-[0.5px] border-white"></button>
-                            <button type="button" class="w-7 h-7 bg-rose-200 border-[0.5px] border-white"></button>
+                        <div class="flex flex-wrap gap-2">
+                            <button type="button" class="btn btn-active w-[2.125rem] h-[2.125rem] min-h-0 rounded-none bg-yellow-950 border-[0.5px] border-white"></button>
+                            <button type="button" class="btn btn-active w-[2.125rem] h-[2.125rem] min-h-0 rounded-none bg-orange-100 border-[0.5px] border-white"></button>
+                            <button type="button" class="btn btn-active w-[2.125rem] h-[2.125rem] min-h-0 rounded-none bg-slate-100 border-[0.5px] border-white"></button>
+                            <button type="button" class="btn btn-active w-[2.125rem] h-[2.125rem] min-h-0 rounded-none bg-rose-200 border-[0.5px] border-white"></button>
                         </div>
                     </div>
 
-                    <div class=""></div>
+                    <div id="size" class="pb-6">
+                        <h2 class="text-lg mb-2.5">Size</h2>
+
+                        <div class="dropdown w-full ">
+                            <div tabindex="0" role="button" class="w-full h-[2.125rem] min-h-0 btn rounded-none border border-solid border-black">Choose your size</div>
+                            <ul tabindex="0" class="dropdown-content z-[1] menu p-2 shadow bg-slate-50 w-full border-x border-b border-solid border-black">
+                                <li><a>Small (25x25)</a></li>
+                                <li><a>Medium (50x50)</a></li>
+                                <li><a>Large (100x100)</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div id="material" class="pb-10">
+                        <h2 class="text-lg mb-2.5">Material</h2>
+
+                        <div class="dropdown w-full ">
+                            <div tabindex="0" role="button" class="w-full h-[2.125rem] min-h-0 btn rounded-none border border-solid border-black">Choose your material</div>
+                            <ul tabindex="0" class="dropdown-content z-[1] menu p-2 shadow bg-slate-50 w-full border-x border-b border-solid border-black">
+                                <li><a>Wood</a></li>
+                                <li><a>Coton</a></li>
+                                <li><a>Iron</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="flex justify-center w-full pb-12">
+                    <button type="button" class="btn btn-active w-full px-8 rounded-none font-normal text-white bg-black">ADD TO CART | 120.00€</button>
+                </div>
+
+                <div id="more-infos" class="pb-8">
+                    <div id="about-craftsman" class="border-y border-solid border-black p-4">About Craftsman</div>
+                    <div id="products-details" class="border-b border-solid border-black p-4">Product Details</div>
+                    <div id="how-to-use" class="border-b border-solid border-black p-4">How to use</div>
                 </div>
             </div>
         </div>
