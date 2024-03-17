@@ -12,14 +12,14 @@
                 </button>
             </div>
             <div class="flex-1">
-                <a href="/" class="btn btn-ghost text-xl font-ryman-eco pl-0">
+                <RouterLink to="/" class="btn btn-ghost text-xl font-ryman-eco pl-0">
                     <img src="../assets/craftedbylogo.svg" alt="CraftedBy Logo" width="155"/>
-                </a>
+                </RouterLink>
             </div>
             <div class="flex-none mr-px">
-                <a class="btn btn-square btn-ghost">
+                <RouterLink to="/login" class="btn btn-square btn-ghost">
                     <i-ph-user style="font-size: 24px; "></i-ph-user>
-                </a>
+                </RouterLink>
 
                 <button class="btn btn-square btn-ghost">
                     <i-ph-bag style="font-size: 24px; margin-right: 16px;"></i-ph-bag>
