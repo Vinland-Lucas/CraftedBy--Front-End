@@ -44,7 +44,7 @@
                     <p class="text-center text-slate-600">
                         Don't have an account ?
                         <span class="text-black underline">
-                            <RouterLink to="/">Sign Up</RouterLink>
+                            <RouterLink to="/signup">Sign Up</RouterLink>
                         </span>
                     </p>
                 </div>
